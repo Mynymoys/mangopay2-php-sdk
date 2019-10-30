@@ -1,6 +1,9 @@
 ## [Unreleased]
+
+## [2.13.0]
 ### Added
 - ApplePay `Payin` functions are now available. More info about activation to come in the following weeks...  
+- `COUNTERFEIT_PRODUCT`has been added as a new `DisputeType`
 
 ## [2.12.2] - 2019-09-11
 ### Changed
